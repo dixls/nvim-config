@@ -1,7 +1,7 @@
 vim.opt.expandtab=true      -- Convert tabs to spaces
 vim.opt.tabstop=2           -- Indent using two spaces
 vim.opt.softtabstop=2       -- make 2 spaces act like tabs
-vim.opt.shiftwidth=22       --
+vim.opt.shiftwidth=2       --
 vim.opt.hlsearch=true       -- highlight text when searching by default
 vim.opt.ignorecase=true     -- ignore case when searching
 vim.opt.incsearch=true      -- begin highlighting partial matches when searching
